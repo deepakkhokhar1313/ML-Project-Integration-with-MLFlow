@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/house_price_prediction_MLFlow/mlruns/0/8865b3792b864c47944c223a397131a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8865b3792b864c47944c223a397131a7
+run_name: delicate-shad-498
+run_uuid: 8865b3792b864c47944c223a397131a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730721698329
+status: 1
+tags: []
+user_id: deepak

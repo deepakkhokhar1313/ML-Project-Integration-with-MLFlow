@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/house_price_prediction_MLFlow/mlruns/0/8d14a19f1bf2428c83066171a6b32bf0/artifacts
+end_time: 1730721615487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d14a19f1bf2428c83066171a6b32bf0
+run_name: painted-ant-432
+run_uuid: 8d14a19f1bf2428c83066171a6b32bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730721611641
+status: 4
+tags: []
+user_id: deepak
