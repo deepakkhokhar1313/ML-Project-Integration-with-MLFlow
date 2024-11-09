@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/DL_Project_MLFow/mlruns/350945622032409699/15b8ad2e5f1240488bda1197df679827/artifacts
+end_time: 1731140863233
+entry_point_name: ''
+experiment_id: '350945622032409699'
+lifecycle_stage: active
+run_id: 15b8ad2e5f1240488bda1197df679827
+run_name: unruly-crab-696
+run_uuid: 15b8ad2e5f1240488bda1197df679827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731140856318
+status: 3
+tags: []
+user_id: deepak

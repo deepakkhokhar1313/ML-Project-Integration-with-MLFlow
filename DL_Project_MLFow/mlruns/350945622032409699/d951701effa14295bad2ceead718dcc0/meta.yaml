@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/DL_Project_MLFow/mlruns/350945622032409699/d951701effa14295bad2ceead718dcc0/artifacts
+end_time: 1731140856298
+entry_point_name: ''
+experiment_id: '350945622032409699'
+lifecycle_stage: active
+run_id: d951701effa14295bad2ceead718dcc0
+run_name: defiant-robin-77
+run_uuid: d951701effa14295bad2ceead718dcc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731140849131
+status: 3
+tags: []
+user_id: deepak

@@ -1,0 +1,6 @@
+artifact_location: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/DL_Project_MLFow/mlruns/350945622032409699
+creation_time: 1731140848861
+experiment_id: '350945622032409699'
+last_update_time: 1731140848861
+lifecycle_stage: active
+name: /wine-quality

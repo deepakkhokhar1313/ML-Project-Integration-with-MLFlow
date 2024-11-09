@@ -1,0 +1,15 @@
+artifact_uri: file:///home/deepak/Desktop/projects/MLOPS_Bootcamp/MLFlow_Integration_Projects/ML-Project-Integration-with-MLFlow/DL_Project_MLFow/mlruns/350945622032409699/2eb853a1f66f43919cd06d3698704d43/artifacts
+end_time: 1731140877027
+entry_point_name: ''
+experiment_id: '350945622032409699'
+lifecycle_stage: active
+run_id: 2eb853a1f66f43919cd06d3698704d43
+run_name: tasteful-tern-397
+run_uuid: 2eb853a1f66f43919cd06d3698704d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731140870213
+status: 3
+tags: []
+user_id: deepak
